@@ -1,5 +1,4 @@
 import {
-    FaDribbleSqaure,
     FaFacebookSquare,
     FaInstagram,
     FaTwitterSquare,
