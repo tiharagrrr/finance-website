@@ -15,7 +15,7 @@ const Newsletter = () => {
             <div className='my-4'>
                 <div className='flex flex-col sm:flex-row items-center justify-between w-full'>
                     <input  className='p-3 flex w-full rounded-md text-black' type='email' placeholder='Enter your email' />
-                    <button className='bg-[#00df9a] w-[200px] rounded-md font-medium  ml-4 my-6 px-6 py-3 text-black'>
+                    <button className='bg-[#00df9a] w-[200px] rounded-md font-medium  ml-4 my-6 px-6 py-2 text-black hover:bg-black hover:text-[#00df9a] hover:border-[#00df9a] border-transparent border-2 transition-colors duration-500'>
                         Notify Me
                     </button>                   
                 </div>
